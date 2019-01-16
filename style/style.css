@@ -1,0 +1,50 @@
+.container{
+	padding-top: 30px;
+}
+
+.search-bar-wrapper{
+	padding-left: 0 !important;
+	margin-bottom: 20px;
+	display: flex;
+}
+
+.search-input{
+	width: 85%;
+	border-radius: 5px;
+	padding: 5px;
+	border: 1.5px solid #eee;
+}
+
+.search-button{
+	width: 15%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.no-outline:focus, .no-outline:active{
+	outline: none;
+}
+
+
+.video-detail{
+	margin-bottom: 20px;
+	padding-left: 0 !important;
+}
+
+.video-detail .details{
+	margin-top: 10px;
+}
+
+.video-detail .details .video-title{
+	font-size: 23px;
+	font-weight: 500;
+}
+
+.video-detail .details .video-description{
+	font-weight: 200;
+}
+
+.list-group .list-group-item{
+	cursor: pointer;
+}

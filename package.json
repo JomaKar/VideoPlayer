@@ -20,11 +20,17 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.2",
+    "@fortawesome/free-solid-svg-icons": "^5.2.0",
+    "@fortawesome/react-fontawesome": "^0.1.2",
     "babel-preset-stage-1": "^6.1.18",
+    "i": "^0.3.6",
     "lodash": "^3.10.1",
+    "npm": "^6.4.0",
     "react": "16.3.2",
     "react-dom": "16.3.2",
     "react-redux": "5.0.7",
-    "redux": "4.0.0"
+    "redux": "4.0.0",
+    "youtube-api-search": "0.0.5"
   }
 }
